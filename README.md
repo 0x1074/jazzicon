@@ -1,4 +1,4 @@
-# Jazzy Identicons (jazzicon)
+# Jazzy Identicons (jazzicon) SSR version
 
 Say goodbye to boring blocky identicons that look like they came out of the 70s, and replace them with jazzy, colorful collages that more likely came out of the 80's.
 
